@@ -1,0 +1,45 @@
+# Blender MTL File: 'Church2.blend'
+# Material Count: 4
+
+newmtl Basic
+Ns 9.000004
+Ka 0.333333 0.333333 0.333333
+Kd 0.661864 0.464720 0.390024
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump C:\\Users\\Murderface\\Documents\\MEGA\\Blender\\Blender\\Kostel\\normals\\TexturesCom_Stucco2_2x2_1K_normal.tif
+
+newmtl Glass
+Ns 702.250011
+Ka 1.000000 1.000000 1.000000
+Kd 0.064005 0.059852 0.090838
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Roof
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.157435 0.033547 0.030184
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.800000 C:\\Users\\Murderface\\Documents\\MEGA\\Blender\\Blender\\Kostel\\roof\\TexturesCom_Roofing_PantileOld_1K_normal.tif
+
+newmtl Wood
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.114936 0.043516 0.035273
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 4.200000 C:\\Users\\Murderface\\Documents\\MEGA\\Blender\\Blender\\Kostel\\normals\\TexturesCom_RoughWood_2x2_1K_normal.tif

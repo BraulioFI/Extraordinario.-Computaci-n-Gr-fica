@@ -1,0 +1,82 @@
+# Blender 3.6.18 MTL File: 'Waggon.blend'
+# www.blender.org
+
+newmtl Waggon-Cloth
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks O:/Assets/blend/Vehicles/maps/Waggon_Cloth_Specular.jpg
+
+newmtl Waggon-Metal-Rusty
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd O:/Assets/blend/Vehicles/maps/Waggon_Metal-Rusty_Diffuse.jpg
+map_Ks O:/Assets/blend/Vehicles/maps/Waggon_Metal-Rusty_Specular.jpg
+
+newmtl Waggon-Metal-Wheels
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks O:/Assets/blend/Vehicles/maps/Waggon_Metal-Wheels_Specular.jpg
+
+newmtl Waggon-Wood-Floor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks O:/Assets/blend/Vehicles/maps/Waggon_Wood-Floor_Specular.jpg
+
+newmtl Waggon-Wood-Frame
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks O:/Assets/blend/Vehicles/maps/Waggon_Wood-Frame_Specular.jpg
+
+newmtl Waggon-Wood-Planks
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks O:/Assets/blend/Vehicles/maps/Waggon_Wood-Planks_Specular.jpg
+
+newmtl Waggon-Wood-Seat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd O:/Assets/blend/Vehicles/maps/Waggon_Wood-Seat_Diffuse.jpg
+map_Ks O:/Assets/blend/Vehicles/maps/Waggon_Wood-Seat_Specular.jpg
+
+newmtl Waggon-Wood-Wheel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks O:/Assets/blend/Vehicles/maps/Waggon_Wood-Wheel_Specular.jpg
